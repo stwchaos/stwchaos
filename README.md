@@ -1,6 +1,5 @@
 ### Hello! 👋
 
-- 🌱 I’m currently learning JavaScript and NodeJS
 - 😄 Pronouns: She/her, They/them
 
  <div>
