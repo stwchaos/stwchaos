@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 😄 Pronouns: She/her, They/them
+- 😄 Pronouns: She/her, They/them, He/him
 
  <div>
   <a href="https://github.com/stwchaos">
