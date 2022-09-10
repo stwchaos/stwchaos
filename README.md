@@ -1,6 +1,8 @@
 ### Hello! 👋
 
 - 😄 Pronouns: She/her, They/them, He/him
+- 🌱 Student at IFSC, geek, aspiring developer.
+
 
  <div>
   <a href="https://github.com/stwchaos">
