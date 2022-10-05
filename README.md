@@ -35,6 +35,7 @@
 
 ### Studying in this moment:
 ![Dart](https://img.shields.io/badge/Dart-092E20?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-121011?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=nodejs&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-326DE6?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-121011?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
