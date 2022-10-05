@@ -25,10 +25,14 @@
 ![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![JS](https://img.shields.io/badge/JS-232F3E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 ### Tools:
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-  
+![Eclipse](https://img.shields.io/badge/Eclipse-E34F26?style=for-the-badge&logo=eclipse&logoColor=black)&nbsp;
+![VisualStudioCode](https://img.shields.io/badge/VSCODE-E34F26?style=for-the-badge&logo=visualstudiocode&logoColor=black)&nbsp;
+![IntelliJ](https://img.shields.io/badge/IntelliJ-E34F26?style=for-the-badge&logo=IntelliJ&logoColor=black)&nbsp;
+
 ### Studying in this moment:
 ![Dart](https://img.shields.io/badge/Dart-092E20?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=nodejs&labelColor=0D1117)&nbsp;
