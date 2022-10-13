@@ -30,7 +30,7 @@ My favorite thing: cats. 🐈‍⬛
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
 
 ### Tools:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -49,7 +49,7 @@ My favorite thing: cats. 🐈‍⬛
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-### Other knowledges
+### Other knowledges:
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JS](https://img.shields.io/badge/JS-232F3E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
