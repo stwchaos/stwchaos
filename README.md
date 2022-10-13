@@ -27,27 +27,34 @@ My favorite thing: cats. 🐈‍⬛
 </div>
 
 ### Main skills:
-![C](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=C&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Tools:
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-E34F26?style=for-the-badge&logo=eclipse&logoColor=black)&nbsp;
-![VisualStudioCode](https://img.shields.io/badge/VSCODE-E34F26?style=for-the-badge&logo=visualstudiocode&logoColor=black)&nbsp;
-![IntelliJ](https://img.shields.io/badge/IntelliJ-E34F26?style=for-the-badge&logo=IntelliJ&logoColor=black)&nbsp;
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![Flutter](https://img.shields.io/badge/Flutter-121011?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=nodejs&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/Java-326DE6?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-121011?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Other knowledges
-![Dart](https://img.shields.io/badge/Dart-092E20?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JS](https://img.shields.io/badge/JS-232F3E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Certifications:
 * ALURA Dart: criando e manipulando variáveis e listas
