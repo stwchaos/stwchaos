@@ -8,9 +8,16 @@ I'm 18 years old and I'm studying systems development at IFSC.
 My favorite thing: cats. 🐈‍⬛
 
 	                                My pronouns are: She/her, They/them, He/him.
-                                  
+       
+##
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stwchaos&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+      <img align="right" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=stwchaos&show_icons=true&count_private=true&hide_border=true&title_color=FFAB62&icon_color=FFAB62&text_color=c9d1d9&bg_color=0d1117" alt="Pfleger Mendes github stats"/> 
+    <img align="right" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwchaos&layout=compact&hide_border=true&title_color=FFAB62&text_color=FFAB62&bg_color=0d1117" />
+</div>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stwchaos&theme=xcode)](https://github.com/stwchaos/github-readme-activity-graph)
 
 
 
@@ -21,10 +28,6 @@ My favorite thing: cats. 🐈‍⬛
 </div>
 
 ## 
-
-<div>
-    <img align="right" width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwchaos&layout=compact&hide_border=true&title_color=FFAB62&text_color=FFAB62&bg_color=16161C" />
-</div>
 
 ### Main skills:
 ![Ubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
