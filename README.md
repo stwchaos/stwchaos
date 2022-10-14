@@ -61,6 +61,7 @@ My favorite thing: cats. 🐈‍⬛
 * ALURA Dart: criando e manipulando variáveis e listas
 * ALURA Dart: entendendo a Orientação a Objetos
 * ALURA Dart: sintaxe, coleções e dinamismo
+* ALURA Dart: lidando com Exceptions e Null Safety
 ## 
 
 <div>  
