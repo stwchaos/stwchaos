@@ -5,21 +5,16 @@ I'm from Brasil, SC. 🌎
 
 I'm 18 years old and I'm studying systems development at IFSC.
 
+My pronouns are: She/her, They/them, He/him.
+
 My favorite thing: cats. 🐈‍⬛
 
-	                                My pronouns are: She/her, They/them, He/him.
-       
-##
 
-<div align="center">
-      <img align="right" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api?username=stwchaos&show_icons=true&count_private=true&hide_border=true&title_color=FFAB62&icon_color=FFAB62&text_color=c9d1d9&bg_color=0d1117" alt="Pfleger Mendes github stats"/> 
-    <img align="right" width="45%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwchaos&layout=compact&hide_border=true&title_color=FFAB62&text_color=FFAB62&bg_color=0d1117" />
+<div>  
+  <img align="right" alt="Anakin" height="150" width="200" src="https://media1.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif?cid=ecf05e473sycytbh3lelro4zv2hhe4p1gzg9d3d5uqav510h&rid=giphy.gif&ct=g"/>
 </div>
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stwchaos&theme=xcode)](https://github.com/stwchaos/github-readme-activity-graph)
-
-
+##
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/sam-pfleger-mendes-8b2918252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -67,9 +62,6 @@ My favorite thing: cats. 🐈‍⬛
 * ALURA Dart: lidando com Exceptions e Null Safety
 ## 
 
-<div>  
-  <img align="left" alt="Anakin" height="150" width="200" src="https://media1.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif?cid=ecf05e473sycytbh3lelro4zv2hhe4p1gzg9d3d5uqav510h&rid=giphy.gif&ct=g"/>
-</div>
 
 
 <div align="center">
