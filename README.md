@@ -61,6 +61,7 @@ My favorite thing: cats. 🐈‍⬛
 * ALURA Dart: sintaxe, coleções e dinamismo
 * ALURA Dart: lidando com Exceptions e Null Safety
 * ALURA Flutter: Widgets, Stateless, Stateful, Imagens e Animações
+* ALURA Flutter: Controller, navegação e estados 
 ## 
 
 
