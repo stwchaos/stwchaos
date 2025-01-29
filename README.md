@@ -5,8 +5,6 @@ I'm from Brasil, SC. 🌎
 
 I'm 19 years old and I did systems development at IFSC.
 
-My pronouns are: She/her, They/them, He/him.
-
 My favorite thing: cats. 🐈‍⬛
 
 
